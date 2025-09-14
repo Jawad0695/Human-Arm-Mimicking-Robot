@@ -5,9 +5,13 @@ This project demonstrates a robotic manipulator that mimics human arm movements 
 🔹 Features
 
 1.Human Arm Imitation – Robotic arm replicates human joint motions for natural interaction.
+
 2.YOLOv8 Integration – Real-time object detection for identifying and tracking objects.
+
 3.ROS2 Middleware – Full integration with ROS2 for modularity, scalability, and simulation.
+
 4.Vision-Guided Manipulation – Uses YOLOv8 detections to perform grasping and interaction tasks.
+
 5.Simulation + Hardware Support – Works in Gazebo/RViz simulation and can be extended to physical robotic arms.
 
 
